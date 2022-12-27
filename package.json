@@ -1,7 +1,6 @@
 {
   "name": "node3",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon app.js"
@@ -15,5 +14,14 @@
     "express-layouts": "^1.0.0",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warkaysofyan/bookStore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/warkaysofyan/bookStore/issues"
+  },
+  "homepage": "https://github.com/warkaysofyan/bookStore#readme",
+  "description": ""
 }
